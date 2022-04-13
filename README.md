@@ -10,11 +10,11 @@
 git clone https://github.com/rimitola8511/movie-app-react-query.git
 ```
 
-Una vez clonado, abrir el directorio raiz y ejecutar `cd supermarket` para entrar al directorio del proyecto.
+Una vez clonado, abrir el directorio raiz y ejecutar `cd nombre del proyecto` para entrar al directorio del proyecto.
 
 ### Pre-requisitos 📋
 
-Nota: `Para efectos de la práctica se eliminó del .gitignore la linea que no permitía subir al repo el archivo .env, de tal manera que al clonar el proyecto esté ya se descargue con el mismo`
+Nota: `Para efectos de la práctica se eliminó del .gitignore la linea que no permitía subir al repo el archivo .env, de tal manera que al clonar el poryecto esté ya se descargue con el mismo`
 
 ```
 
@@ -62,9 +62,12 @@ Se utilizó HTML, CSS (Material UI framework) y Javascript esté último se comb
 
 Se intentó seguir las mejores practicas con Reactjs, la cual nos permite ordenar nuestro código y hacer que las distintas partes de la aplicación se comuniquen entre sí, también nos ayuda a mantener unos atributos de calidad como la escalabilidad, desacoplamiento y mantenibilidad; se intento modularizar y reutilizar todo lo más posible. La idea es tener un código prolijo pero eficiente fácilmente escalable, se realizaron test unitarios de los componentes visuales, se utilizó una instacia de axios para definir una URL base y así realizar las peticiones a la API de forma optima, se añadireron PropTypes como validación de props y se utilizó la libreria react-query para realizar las peticiones a través de un customHook lo cual nos permitirá realizar caching de las mismas esto con el fin de mejorar la perfomace del sitio.
 
-Se prestó atención a la accesibilidad del sitio y al diseño en general respetando el diseño provisto, el cual se optó por desarrollarlo con Material UI sin descuidar la adaptabilidad a las diferentes pantallas.
-
----
+Se prestó atención a la accesibilidad del sitio y al diseño en general respetando el diseño provisto, el cual se optó por desarrollarlo con Material UI sin descuidar la adaptabilidad a las diferentes pantallas.---
 
 ⌨️ con ❤️ por [Ricardo Imitola](https://github.com/rimitola8511) 😊
+
+```
+
+```
+
 ```
